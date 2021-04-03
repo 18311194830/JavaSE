@@ -1,0 +1,12 @@
+package oop.demo07;
+
+/**
+ * @ClassName: Teach
+ * @Description: java类作用描述
+ * @Author: 任宏腾
+ * @CreateDate: 2021/3/1$ 21:31$
+ * @Version: 1.0
+ */
+
+public class Teach extends Person {
+}
